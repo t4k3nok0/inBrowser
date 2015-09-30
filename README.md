@@ -30,5 +30,7 @@ ArchLinux環境ではない人でも必要なものさえ分かればおそら�
 # How to 艦これ
 toshi_a氏の艦これプラグインと同様なプラグインなのでmikutterでも艦これがしたい提督さん！FlashPlayerが導入されていれば艦これも動きます。（動きました）
 ArchLinux環境では
+
 $ pacman -S flashplugin
+
 などをしてください他環境下でもFlashPlayerが入っていれば同様に動くはずです
